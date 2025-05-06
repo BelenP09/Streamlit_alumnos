@@ -45,3 +45,8 @@ st.audio("https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3", format
 
 #Videos
 st.video("https://www.youtube.com/watch?v=2Vv-BfVoq4g") #Video
+
+#--------------------------------------------------------------------------------------------------------------------
+
+st.sidebar("Sidebar") #Sidebar
+st.sidebar.title("Sidebar") #Título de la sidebar
